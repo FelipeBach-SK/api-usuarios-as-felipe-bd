@@ -1,0 +1,1 @@
+public record CreateUsuarioDto(string Nome, string Email, string Senha);
