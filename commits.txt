@@ -1,5 +1,0 @@
-1. feat: inicializa arquitetura limpa
-2. feat: adiciona entidade Usuario
-3. feat: implementa DTOs
-4. feat: adiciona repositório
-5. chore: adiciona migrations e banco
