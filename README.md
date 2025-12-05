@@ -39,7 +39,7 @@ Como Executar o Projeto:
 
 Passos:
 
--Clone o repositório: "git clone https://github.com/seu-repositorio.git"
+-Clone o repositório: "git clone https://github.com/FelipeBach-SK/api-usuarios-as-felipe-bd"
 -Aplique as migrations: "dotnet ef database update"
 -Execute a aplicação: "dotnet run"
 
