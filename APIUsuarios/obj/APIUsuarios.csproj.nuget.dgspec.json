@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell G15\\Downloads\\api-usuarios-as-felipe-bd\\APIUsuarios\\APIUsuarios.csproj": {}
+    "C:\\Users\\Dell G15\\Documents\\ADS\\Des.Back-End\\api-usuarios-as-felipe-bd\\APIUsuarios\\APIUsuarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell G15\\Downloads\\api-usuarios-as-felipe-bd\\APIUsuarios\\APIUsuarios.csproj": {
+    "C:\\Users\\Dell G15\\Documents\\ADS\\Des.Back-End\\api-usuarios-as-felipe-bd\\APIUsuarios\\APIUsuarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell G15\\Downloads\\api-usuarios-as-felipe-bd\\APIUsuarios\\APIUsuarios.csproj",
+        "projectUniqueName": "C:\\Users\\Dell G15\\Documents\\ADS\\Des.Back-End\\api-usuarios-as-felipe-bd\\APIUsuarios\\APIUsuarios.csproj",
         "projectName": "APIUsuarios",
-        "projectPath": "C:\\Users\\Dell G15\\Downloads\\api-usuarios-as-felipe-bd\\APIUsuarios\\APIUsuarios.csproj",
+        "projectPath": "C:\\Users\\Dell G15\\Documents\\ADS\\Des.Back-End\\api-usuarios-as-felipe-bd\\APIUsuarios\\APIUsuarios.csproj",
         "packagesPath": "C:\\Users\\Dell G15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell G15\\Downloads\\api-usuarios-as-felipe-bd\\APIUsuarios\\obj\\",
+        "outputPath": "C:\\Users\\Dell G15\\Documents\\ADS\\Des.Back-End\\api-usuarios-as-felipe-bd\\APIUsuarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell G15\\AppData\\Roaming\\NuGet\\NuGet.Config"
